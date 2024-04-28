@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:md_code_highlight_demo/component/md_code_hightlight_math.dart';
+import 'package:md_code_highlight_demo/component/md_code_highlight_math.dart';
 
 void main() {
   runApp(const MyApp());
